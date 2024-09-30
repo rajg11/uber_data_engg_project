@@ -1,5 +1,5 @@
-Uber Data Engineering and Analytics | Modern Data Engineering GCP Project
-
+**Uber Data Engineering and Analytics | Modern Data Engineering GCP Project
+**
 Project Overview
 
 This project aims to analyze Uber data by leveraging a variety of tools and technologies, including Google Cloud Platform (GCP) services, Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The objective is to gain insights from Uber trip data using a modern data engineering approach.
