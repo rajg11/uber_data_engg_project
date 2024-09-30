@@ -1,5 +1,5 @@
-**Uber Data Engineering and Analytics | Modern Data Engineering GCP Project
-**
+**Uber Data Engineering and Analytics | Modern Data Engineering GCP Project**
+
 Project Overview
 
 This project aims to analyze Uber data by leveraging a variety of tools and technologies, including Google Cloud Platform (GCP) services, Python, Mage Data Pipeline Tool, BigQuery, and Looker Studio. The objective is to gain insights from Uber trip data using a modern data engineering approach.
@@ -11,12 +11,15 @@ Google Storage
 Compute Instance
 BigQuery
 Looker Studio
+
 Data Pipeline Tool: Mage
+
 Contribute to the Open-Source Project
 GitHub Repository: Mage AI
-Dataset Information
-The project utilizes the TLC Trip Record Data, which includes data from yellow and green taxi trips. The dataset provides detailed information, such as:
 
+Dataset Information:
+
+The project utilizes the TLC Trip Record Data, which includes data from yellow and green taxi trips. The dataset provides detailed information, such as:
 Pick-up and drop-off dates/times
 Pick-up and drop-off locations
 Trip distances
@@ -24,3 +27,9 @@ Itemized fares
 Rate types
 Payment types
 Driver-reported passenger counts
+
+
+More info about dataset can be found here:
+
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
