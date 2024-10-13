@@ -12,7 +12,7 @@ Compute Instance
 BigQuery
 Looker Studio
 
-Data Pipeline Tool: Mage
+**Data Pipeline Tool**: Mage
 
 Contribute to the Open-Source Project
 GitHub Repository: Mage AI
